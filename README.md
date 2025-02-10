@@ -1,13 +1,13 @@
 # aegaramadhanPorto
 aegaramadhan.github.io/aegaramadhanPorto
 
-### Hi there, I'm [Nama Kamu] 👋
+### Hi there, I'm Anjasyah Ega Ramadhan 👋
 
-#### 💻 Junior Software Developer | SMK RPL Student | Tech Enthusiast
+#### 💻 Junior Software Developer | SMK 8 Malang RPL Student | Tech Enthusiast
 
 ---
 
-Welcome to my GitHub profile! I'm a passionate student from **[Nama Sekolah]**, majoring in **Rekayasa Perangkat Lunak (RPL)**. I love coding, building applications, and learning new technologies to improve my skills.
+Welcome to my GitHub profile! I'm a passionate student from **[SMK 8 MALANG]**, majoring in **Rekayasa Perangkat Lunak (RPL)**. I love coding, building applications, and learning new technologies to improve my skills.
 
 ### 🔧 Tech Stack & Skills
 - 💻 **Programming Languages**: Python, JavaScript, Java, PHP
